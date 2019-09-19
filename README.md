@@ -27,6 +27,10 @@
 
 ***
 
+:hatched_chick:
+
+***
+
 [高科大](https://www.nkust.edu.tw/)
 
 | First | Second | Third |
