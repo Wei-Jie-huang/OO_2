@@ -86,7 +86,7 @@ class CTriangle extends CShape
   
   {
   
-   System.out.print("color="+color+"", ");
+   System.out.print("color="+color+", ");
    
    System.out.println("area="+0.5 * bottom * height);
    
