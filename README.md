@@ -68,7 +68,7 @@ class CTriangle extends CShape
 
 {
 
-  protected double a,b,c;
+  protected double bottom,height,hypotenuse;
   
   public CTriangle(double a,double b,double c)
   
@@ -88,7 +88,7 @@ class CTriangle extends CShape
   
    System.out.print("color="+color+"", ");
    
-   System.out.println("area="+0.5*bottom*height);
+   System.out.println("area="+0.5 * bottom * height);
    
   }
   
